@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Nathan-Fenner/advent-of-code.git",
+  "author": "Nathan Fenner <nfenneremail@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  }
+}
